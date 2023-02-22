@@ -34,4 +34,5 @@ J'ai beaucoup aimé cette oeuvre parce qu'il y avait beaucoup de petits détails
 Je trouve que les mouvements des robots et les sons de leur mouvements étaient très étranges. Ils faisaient beaucoup de bruit et je trouve qu'on dirait qu'il manque de finission, mais je pense que c'était pour nous faire peur plus qu'autre chose. De plus, les robots inactifs bougeaient tout seul ce qui était un peu étrange, il faudrait peut-être essayer de mieux les stabiliser.
 
 Référence : https://www.arsenalcontemporary.com/mtl/fr/exhib/detail/2022-elektra-6e-biennale
-            
+            https://quoifaireenfamille.com/fiche/centre-galerie-dart/arsenal-art-contemporain-montreal/
+            https://billvorn.concordia.ca/menuall.html

@@ -29,3 +29,9 @@ Pendant la présentation de l'oeuvre, il faut se tenir à l'équart pour ne pas 
 
 https://user-images.githubusercontent.com/112108214/220721117-437d908c-e5e5-4b48-94ce-a61a494c2340.MOV
 
+J'ai beaucoup aimé cette oeuvre parce qu'il y avait beaucoup de petits détails, tels que des jeux de lumières, mais surtout, c'était très original. J'ai aimé voir comment l'auteur de cette oeuvre s'est imaginé sa vision du remplacement des humains par des robots, c'était même un peu effrayant. C'est quelque chose de très particulé et le genre d'oeuvre que je vois très rarement, donc j'ai aimé l'audace!
+
+Je trouve que les mouvements des robots et les sons de leur mouvements étaient très étranges. Ils faisaient beaucoup de bruit et je trouve qu'on dirait qu'il manque de finission, mais je pense que c'était pour nous faire peur plus qu'autre chose. De plus, les robots inactifs bougeaient tout seul ce qui était un peu étrange, il faudrait peut-être essayer de mieux les stabiliser.
+
+Référence : https://www.arsenalcontemporary.com/mtl/fr/exhib/detail/2022-elektra-6e-biennale
+            

@@ -1,21 +1,21 @@
 ### Edria
 Ce projet a été créé par Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et Jean-Christophe.
-Voici le lien de leur projet : https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html
+Voici le lien de leur projet : https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html  
 ![6FF7611F-0827-4217-83F7-D2762CF91DAC_1_105_c](https://user-images.githubusercontent.com/112108214/233417297-31bbe57a-dfa3-47e4-8d19-28c193fe2be9.jpg)
 
 ### Nexum
 Ce projet a été réalisé par Sébastien Reilly, Sabrina Laforest, Alexandre Daniel ainsi que Maxime Des Lauriers.
-Voici le lien de leur projet : https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html
+Voici le lien de leur projet : https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html  
 ![photo_nexum](https://user-images.githubusercontent.com/112108214/233418833-0e987ea6-8af7-4b78-b801-49ce0038a438.jpg)
 
 ### LumaSol
 Ce projet a été créé par Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Morrisson.
-Voici le lien de leur projet : https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
+Voici le lien de leur projet : https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html  
 ![photo_lumasol](https://user-images.githubusercontent.com/112108214/233420737-402341cb-9626-49c8-9894-b7d7e4aef028.jpg)
 
 ### Zodie-Gal
 Ce projet à été créé par Abdanor Yara.
-Voici le lien de son projet : https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html
+Voici le lien de son projet : https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html  
 Je n'ai pas pu prendre de photo pour cette oeuvre ci parce qu'elle n'était pas présente.
 
 ### Echomarine

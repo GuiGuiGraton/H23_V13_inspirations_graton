@@ -16,11 +16,11 @@ Voici le lien de leur projet : https://tim-montmorency.com/2023/projets/LumaSol/
 ### Zodie-Gal
 Ce projet à été créé par Abdanor Yara.
 Voici le lien de son projet : https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html
-### Je n'ai pas pu prendre de photo pour cette oeuvre ci parce qu'elle n'était pas présente.
+Je n'ai pas pu prendre de photo pour cette oeuvre ci parce qu'elle n'était pas présente.
 
 ### Echomarine
 Ce projet à été réalisé par Florence Lapierre, Natacha Abdallah, Tracy Gua et Maria Laura Coronel.
-Voici le lien vers leur projet : https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html
+Voici le lien vers leur projet : https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html  
 ![photo_echomarine](https://user-images.githubusercontent.com/112108214/233421642-467f38d9-695e-4ae6-929e-910f7c12c845.jpg)
 
 ### Les trois cours indispensable pour l'intégration multimédia

@@ -14,3 +14,13 @@ Dans la réalisation de cette oeuvre, il y a Elwin Durand, Loïc Delorme, Domini
 ### L'année de création  
 Cette oeuvre a été créé au courant du début de l'année 2023 et a été mise en exposition en mars 2023.  
 ### Description de l'oeuvre  
+Edria est une oeuvre abordant les lumières et l'intéraction. Il y a un poteau au milieu de l'oeuvre, nous devons se rassembler autour de celui-ci et un grosse quantité de lumière et de musique se met en action.  
+Voici quelques photos : 
+![photo_edria_01](https://user-images.githubusercontent.com/112108214/233473437-8ace1fa4-0a59-4a2d-be14-adae8b48ebdb.jpg)  
+![photo_edria_02](https://user-images.githubusercontent.com/112108214/233473459-8a9c4047-c9d6-4647-b007-50be3eb45ac0.jpg)  
+### Type d'installation  
+Comme du plus haut, c'est une installation intéractive, donc qui nous permet d'intéragir avec celle-ci et se sentir intégrer à celle-ci.  
+Voici une image de cette intéraction :  
+![photo_edria_03](https://user-images.githubusercontent.com/112108214/233474172-10c58343-3b51-47df-863e-a90407ea9c06.jpg)  
+### Fonction du dispositif multimédia  
+Cette installation nous fait sentir vivant, nous devons être quatre autour d'un poteau pour déclancher les effets.

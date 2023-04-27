@@ -29,3 +29,8 @@ Cette installation nous fait sentir vivant, nous devons être quatre autour d'un
 L'oeuvre est mise en place devant l'école, pas loins de la porte 6, donc en extérieur. Il y a 8 poteaux de chaques côtés et un central pour pouvoir créer un effet différent!  
 ![photo_edria_05](https://user-images.githubusercontent.com/112108214/234739579-41fe55fc-0fbe-4fdd-bdcf-f8c1e5def5f6.jpg)  
 ### Composantes et techniques  
+
+### Éléments nécessaires à la mise en exposition  
+Ils n'ont pas eu besoin d'arranger les alentours. C'est un espace vaste donc ils n'ont pas du arranger quoi que ce soit.  
+### Expérience vécue  
+Donc pour que l'expérience se lance, il faut se positionner autour du poteau metallique central et on doit compter un groupe de quatre. Dès que l'on sera placé autour de celui-ci, l'expérience se lancera

@@ -1,4 +1,6 @@
 ### Conférence d'Halo Création  
 Pour cette conférence qui a eu lieu le 30 mars, c'est Yanik Daunais qui l'a animé. Yanik est le directeur général et le producteur d'Halo Création. Il nous présente ce qu'il fait dans la vie, qu'est-ce que c'est qu'Halo Création. En fait, c'est une firme de production de projets multimédia.  
 
-Ce qu'ils aimeraient raconter c'est de mettre en place une trame narrative pour l'expérience, la mettre en application et s'assurer du confort du visiteur au cours de l'expérience. Ils s'addressent 
+Ce qu'ils aimeraient raconter c'est de mettre en place une trame narrative pour l'expérience, la mettre en application et s'assurer du confort du visiteur au cours de l'expérience. Ils s'addressent au plus de personnes possibles pour pouvoir par exemple, vivre une expérience en famille, avec des amis, etc. Ils s'assurent aussi de savoir combien de temps l'expérience va durer, si elle va être permanante ou bien temporaire. Ils s'assurent aussi de la durabilité de leur projets. Pour eux, l'éco-responsabilité est un grand enjeu qui ne faut pas sauter. Ils font aussi attention de bien connaître les réglementations, les normes de sécurité ainsi que la conformité des installations. Ils créés aussi le manuel d'opération ainsi que le budget et l'échéancier.  
+
+J'ai trouvé la conférence très intéressante. Yanik était très sympathique et était très réceptif, ça a été agréable de lui parler. De plus j'ai appris beaucoup de choses sur les étapes de production d'une expérience multimédia.

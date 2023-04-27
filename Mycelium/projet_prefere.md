@@ -33,4 +33,10 @@ L'oeuvre est mise en place devant l'école, pas loins de la porte 6, donc en ext
 ### Éléments nécessaires à la mise en exposition  
 Ils n'ont pas eu besoin d'arranger les alentours. C'est un espace vaste donc ils n'ont pas du arranger quoi que ce soit.  
 ### Expérience vécue  
-Donc pour que l'expérience se lance, il faut se positionner autour du poteau metallique central et on doit compter un groupe de quatre. Dès que l'on sera placé autour de celui-ci, l'expérience se lancera
+Donc pour que l'expérience se lance, il faut se positionner autour du poteau metallique central et on doit compter un groupe de quatre. Dès que l'on sera placé autour de celui-ci, l'expérience se lancera. Quand elle se lance, il y a un gros jeu de lumière qui se créé ainsi qu'une tonne d'effets sonores.  
+### Ce qui vous a plu, vous a donné des idées  
+J'ai aimé cette expérience parce que pour la faire déclancher, il faut être un groupe, donc si on est seulement deux, deux autres personnes doivent se rajouter et ça rajoute un côté humain je trouve. Par la suite on découvrait les effets de l'expérience avec des inconnus et ça rend la chose plus drôle.  
+### Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement  
+Honnêtement, j'ai vraiment beaucoup aimé cette expérience, elle nous permetait de se joindre et de vivre une expérience en groupe. La seule chose que je changerais ça serait l'effet final, on dirait que ce n'est pas assez intense comme intéraction.
+### Références  
+https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html

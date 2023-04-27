@@ -21,6 +21,11 @@ Voici quelques photos :
 ### Type d'installation  
 Comme du plus haut, c'est une installation intéractive, donc qui nous permet d'intéragir avec celle-ci et se sentir intégrer à celle-ci.  
 Voici une image de cette intéraction :  
-![photo_edria_03](https://user-images.githubusercontent.com/112108214/233474172-10c58343-3b51-47df-863e-a90407ea9c06.jpg)  
+![photo_edria_03](https://user-images.githubusercontent.com/112108214/233474172-10c58343-3b51-47df-863e-a90407ea9c06.jpg)    
 ### Fonction du dispositif multimédia  
-Cette installation nous fait sentir vivant, nous devons être quatre autour d'un poteau pour déclancher les effets.
+Cette installation nous fait sentir vivant, nous devons être quatre autour d'un poteau pour déclancher les effets.  
+![photo_edria_04](https://user-images.githubusercontent.com/112108214/234739714-72000237-f014-43cf-b077-faa0dfabfbd3.jpg)  
+### Mise en place  
+L'oeuvre est mise en place devant l'école, pas loins de la porte 6, donc en extérieur. Il y a 8 poteaux de chaques côtés et un central pour pouvoir créer un effet différent!  
+![photo_edria_05](https://user-images.githubusercontent.com/112108214/234739579-41fe55fc-0fbe-4fdd-bdcf-f8c1e5def5f6.jpg)  
+### Composantes et techniques  

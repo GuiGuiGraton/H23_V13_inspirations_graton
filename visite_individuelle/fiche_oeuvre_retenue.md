@@ -12,3 +12,6 @@ Elle a été conçu par GSM Project en 2021.
 ### Description de l'oeuvre  
 Ce sont des projections qui ont été installées afin de représenté les ruines qui ont été détruites depuis le construction.  
 ![8C45238A-DC78-4022-92E3-F2E7CE3A9478_1_102_o](https://github.com/GuiGuiGraton/H23_V13_inspirations_graton/assets/112108214/7ad95fea-2020-46ec-aaee-f8408f93f27d)  
+### Type d'installation  
+C'est une oeuvre qui est contemplative, donc aucune intéraction.  
+https://github.com/GuiGuiGraton/H23_V13_inspirations_graton/assets/112108214/0274463a-7789-4dfd-83a2-fd2afde68c93  

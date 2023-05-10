@@ -15,3 +15,5 @@ Ce sont des projections qui ont été installées afin de représenté les ruine
 ### Type d'installation  
 C'est une oeuvre qui est contemplative, donc aucune intéraction.  
 https://github.com/GuiGuiGraton/H23_V13_inspirations_graton/assets/112108214/0274463a-7789-4dfd-83a2-fd2afde68c93  
+### Composantes et techniques  
+* Des projecteurs  

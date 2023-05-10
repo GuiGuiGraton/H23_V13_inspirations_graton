@@ -1,7 +1,7 @@
 # Montréal au coeur des échanges  
 ### Lieu de mise en exposition  
 Au musée Pointe-à-Callière dans le Vieux-Montréal.  
-![1563A200-93C6-4BFE-9A49-5006C9C3891B](https://github.com/GuiGuiGraton/H23_V13_inspirations_graton/assets/112108214/4fa85a82-1c83-416a-8b73-3a9e94a1b004)  
+![1563A200-93C6-4BFE-9A49-5006C9C3891B](https://github.com/GuiGuiGraton/H23_V13_inspirations_graton/assets/112108214/963c78b4-d31b-4f4d-a7ef-b0f81bb3fb18)  
 ### Type de l'exposition  
 C'est une exposition temporaire qui se situe dans le sous-sol du musée.  
 ### Date de la visite  

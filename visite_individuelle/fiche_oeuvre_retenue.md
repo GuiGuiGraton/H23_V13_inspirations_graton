@@ -20,3 +20,13 @@ https://github.com/GuiGuiGraton/H23_V13_inspirations_graton/assets/112108214/027
 * Support pour le projecteur  
 * Fils  
 ![installation_projecteur](https://github.com/GuiGuiGraton/H23_V13_inspirations_graton/assets/112108214/31673f04-64b6-4cdc-9829-6e0714e84064)  
+### Expérience vécue  
+Les animations étaient agréables à voir. Ça permettait aux visiteurs de pouvoir se faire une idée des infrastructures à l'époque de leur construction. Malheureusement, elle n'étaient pas intéractives.  
+![IMG_4053](https://github.com/GuiGuiGraton/H23_V13_inspirations_graton/assets/112108214/90e675c9-4a92-4576-bdc7-eba34657d8c9)  
+### Ce que j'ai préféré  
+Il était facile de s'imaginer les infrastructures qui ont été détruite. On se sentait plus inclus dans le lieu.  
+### Ce que je ne retiendrai pas  
+Il n'y avait aucune intéractivité et c'était seulement des projections en boucle, donc on faisait le tour rapidement.  
+**Références**  
+https://pacmusee.qc.ca/fr/expositions/detail/montreal-au-coeur-des-echanges/  
+https://gsmproject.com/fr/projets/etude-de-cas/montreal-au-coeur-des-echanges/

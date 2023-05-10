@@ -26,7 +26,8 @@ Les animations étaient agréables à voir. Ça permettait aux visiteurs de pouv
 ### Ce que j'ai préféré  
 Il était facile de s'imaginer les infrastructures qui ont été détruite. On se sentait plus inclus dans le lieu.  
 ### Ce que je ne retiendrai pas  
-Il n'y avait aucune intéractivité et c'était seulement des projections en boucle, donc on faisait le tour rapidement.  
+Il n'y avait aucune intéractivité et c'était seulement des projections en boucle, donc on faisait le tour rapidement. 
+
 **Références**  
 https://pacmusee.qc.ca/fr/expositions/detail/montreal-au-coeur-des-echanges/  
 https://gsmproject.com/fr/projets/etude-de-cas/montreal-au-coeur-des-echanges/
